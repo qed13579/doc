@@ -1,0 +1,8 @@
+import{_ as e,e as n}from"./app.7af44c4e.js";const a={},s=n(`<h1 id="_04-\u3010\u5FFD\u7565\u67D0\u4E9B\u6587\u4EF6\u3011" tabindex="-1"><a class="header-anchor" href="#_04-\u3010\u5FFD\u7565\u67D0\u4E9B\u6587\u4EF6\u3011" aria-hidden="true">#</a> 04 \u3010\u5FFD\u7565\u67D0\u4E9B\u6587\u4EF6\u3011</h1><p>\u5728push\u7ED9\u8FDC\u7A0B\u4ED3\u5E93\u65F6\u9700\u8981\u5FFD\u7565\u67D0\u4E9B\u6587\u4EF6\u65F6\uFF0C\u9700\u8981\u5728\u672C\u5730\u4ED3\u5E93\u65B0\u5EFA<code>.gitignore</code>\u7684\u6587\u4EF6\uFF0C\u6CE8\u610F\u5728windows\u4E0B\u65E0\u6CD5\u76F4\u63A5\u521B\u5EFA\u8BE5\u6587\u4EF6\uFF0C\u53EA\u80FD\u901A\u8FC7<code>Git Bash</code>\u6765<code>touch .gitignore </code>\u6765\u751F<code>gitignore</code>\u6587\u4EF6</p><p>\u7136\u540E\u5728<code>.gitignore</code>\u4E2D\u4E66\u5199\u89C4\u5219\u5982\u4E0B\uFF1A</p><p>\u5E38\u89C1\u89C4\u5219\u5199\u6CD5</p><div class="language-markdown ext-md line-numbers-mode"><pre class="language-markdown"><code>/mtk/   \u8FC7\u6EE4\u6574\u4E2A\u6587\u4EF6\u5939
+
+*.zip    \u8FC7\u6EE4\u6240\u6709.zip\u6587\u4EF6
+
+/mtk/do.java \u8FC7\u6EE4\u67D0\u4E2A\u5177\u4F53\u6587\u4EF6
+
+!do.java \u4E0D\u8FC7\u6EE4\u67D0\u4E2A\u6587\u4EF6
+</code></pre><div class="line-numbers" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br></div></div>`,5);function r(i,c){return s}var o=e(a,[["render",r],["__file","04 \u3010\u5FFD\u7565\u67D0\u4E9B\u6587\u4EF6\u3011.html.vue"]]);export{o as default};
